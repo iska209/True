@@ -1,0 +1,3 @@
+function isMishaGay(){
+    return true;
+}
