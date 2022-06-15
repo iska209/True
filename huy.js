@@ -3,7 +3,7 @@ function isNebzdoonHuesos() {
     if (TheNebzdoon = "Huesos") {
        return true;
     } else {
-        return false;
+        return "Пошел нахуй";
     }
 }
 
